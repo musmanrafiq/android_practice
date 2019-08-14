@@ -1,8 +1,12 @@
-package com.dev.neo.androidlearning;
+package com.dev.neo.androidlearning.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
+
+import com.dev.neo.androidlearning.R;
+import com.dev.neo.androidlearning.adapters.UserAdapter;
+import com.dev.neo.androidlearning.infrastructure.models.UserModel;
 
 import java.util.ArrayList;
 

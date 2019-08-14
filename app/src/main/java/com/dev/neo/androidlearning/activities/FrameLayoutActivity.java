@@ -1,9 +1,11 @@
-package com.dev.neo.androidlearning;
+package com.dev.neo.androidlearning.activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
+
+import com.dev.neo.androidlearning.R;
 
 public class FrameLayoutActivity extends AppCompatActivity implements View.OnClickListener
 {

@@ -1,8 +1,10 @@
-package com.dev.neo.androidlearning;
+package com.dev.neo.androidlearning.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.dev.neo.androidlearning.R;
 
 public class MainActivity extends AppCompatActivity {
 

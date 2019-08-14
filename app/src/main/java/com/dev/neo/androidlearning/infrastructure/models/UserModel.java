@@ -1,4 +1,4 @@
-package com.dev.neo.androidlearning;
+package com.dev.neo.androidlearning.infrastructure.models;
 
 public class UserModel {
 

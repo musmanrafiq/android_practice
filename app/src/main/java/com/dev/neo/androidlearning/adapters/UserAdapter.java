@@ -1,4 +1,4 @@
-package com.dev.neo.androidlearning;
+package com.dev.neo.androidlearning.adapters;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,6 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
+
+import com.dev.neo.androidlearning.R;
+import com.dev.neo.androidlearning.infrastructure.models.UserModel;
 
 import java.util.ArrayList;
 
